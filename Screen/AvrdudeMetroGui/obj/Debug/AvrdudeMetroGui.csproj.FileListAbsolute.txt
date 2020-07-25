@@ -1,0 +1,18 @@
+C:\Users\RAVI\Documents\Visual Studio 2012\Projects\AvrdudeMetroGui\AvrdudeMetroGui\bin\Debug\AvrdudeMetroGui.exe
+C:\Users\RAVI\Documents\Visual Studio 2012\Projects\AvrdudeMetroGui\AvrdudeMetroGui\bin\Debug\AvrdudeMetroGui.pdb
+C:\Users\RAVI\Documents\Visual Studio 2012\Projects\AvrdudeMetroGui\AvrdudeMetroGui\bin\Debug\MetroFramework.Design.dll
+C:\Users\RAVI\Documents\Visual Studio 2012\Projects\AvrdudeMetroGui\AvrdudeMetroGui\bin\Debug\MetroFramework.dll
+C:\Users\RAVI\Documents\Visual Studio 2012\Projects\AvrdudeMetroGui\AvrdudeMetroGui\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\RAVI\Documents\Visual Studio 2012\Projects\AvrdudeMetroGui\AvrdudeMetroGui\bin\Debug\MetroFramework.Design.pdb
+C:\Users\RAVI\Documents\Visual Studio 2012\Projects\AvrdudeMetroGui\AvrdudeMetroGui\bin\Debug\MetroFramework.Fonts.pdb
+C:\Users\RAVI\Documents\Visual Studio 2012\Projects\AvrdudeMetroGui\AvrdudeMetroGui\bin\Debug\MetroFramework.pdb
+C:\Users\RAVI\Documents\Visual Studio 2012\Projects\AvrdudeMetroGui\AvrdudeMetroGui\obj\Debug\AvrdudeMetroGui.csprojResolveAssemblyReference.cache
+C:\Users\RAVI\Documents\Visual Studio 2012\Projects\AvrdudeMetroGui\AvrdudeMetroGui\obj\Debug\AvrdudeMetroGui.Mainform.resources
+C:\Users\RAVI\Documents\Visual Studio 2012\Projects\AvrdudeMetroGui\AvrdudeMetroGui\obj\Debug\AvrdudeMetroGui.Properties.Resources.resources
+C:\Users\RAVI\Documents\Visual Studio 2012\Projects\AvrdudeMetroGui\AvrdudeMetroGui\obj\Debug\AvrdudeMetroGui.csproj.GenerateResource.Cache
+C:\Users\RAVI\Documents\Visual Studio 2012\Projects\AvrdudeMetroGui\AvrdudeMetroGui\obj\Debug\AvrdudeMetroGui.exe
+C:\Users\RAVI\Documents\Visual Studio 2012\Projects\AvrdudeMetroGui\AvrdudeMetroGui\obj\Debug\AvrdudeMetroGui.pdb
+C:\Users\RAVI\Documents\Visual Studio 2012\Projects\AvrdudeMetroGui - Copy\AvrdudeMetroGui\obj\Debug\AvrdudeMetroGui.exe
+C:\Users\RAVI\Documents\Visual Studio 2012\Projects\AvrdudeMetroGui - Copy\AvrdudeMetroGui\obj\Debug\AvrdudeMetroGui.pdb
+C:\Users\RAVI\Documents\Visual Studio 2012\Projects\Screen\AvrdudeMetroGui\obj\Debug\AvrdudeMetroGui.exe
+C:\Users\RAVI\Documents\Visual Studio 2012\Projects\Screen\AvrdudeMetroGui\obj\Debug\AvrdudeMetroGui.pdb

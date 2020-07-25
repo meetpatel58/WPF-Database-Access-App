@@ -1,0 +1,169 @@
+﻿<?xml version="1.0"?>
+<configuration>
+      <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+            <section name="Screen.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false"/>
+        </sectionGroup>
+    </configSections>
+    <userSettings>
+        <Screen.Properties.Settings>
+            <setting name="Server" serializeAs="String">
+                <value>ravi-pc\sqlexpress</value>
+            </setting>
+            <setting name="Theme" serializeAs="String">
+                <value>Default</value>
+            </setting>
+            <setting name="Database" serializeAs="String">
+                <value>Screen</value>
+            </setting>
+            <setting name="User" serializeAs="String">
+                <value>sa</value>
+            </setting>
+            <setting name="Password" serializeAs="String">
+                <value>metro</value>
+            </setting>
+            <setting name="colorstyle" serializeAs="String">
+                <value>Default</value>
+            </setting>
+            <setting name="AdminPass" serializeAs="String">
+                <value>database</value>
+            </setting>
+            <setting name="MasterGoldXAU" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="MasterSilverXAG" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="GoldSpreadShift" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="SilverSpreadShift" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="GoldShift" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="SilverShift" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="KGbar" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="TTbar" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="T5" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="T10" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="AED" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="MB_XAU_Fr" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="MB_XAU_To" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="MA_XAU_Fr" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="MA_XAU_To" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="MB_XAG_Fr" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="MB_XAG_To" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="MA_XAG_Fr" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="MA_XAG_To" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="S_XAU_Fr" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="S_XAU_To" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="S_XAG_Fr" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="S_XAG_To" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="XAU_BID_Fr" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="XAU_BID_To" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="XAU_ASK_Fr" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="XAU_ASK_To" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="XAG_BID_Fr" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="XAG_BID_To" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="XAG_ASK_Fr" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="XAG_ASK_To" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="KGB_995_Fr" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="KGB_995_To" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="TTB_Fr" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="TTB_To" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="T5_999_Fr" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="T5_999_To" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="T5_995_Fr" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="T5_995_To" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="T10_999_Fr" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="T10_999_To" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="T10_995_Fr" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="T10_995_To" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="AED_PG_Fr" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="AED_PG_To" serializeAs="String">
+                <value>0</value>
+            </setting>
+        </Screen.Properties.Settings>
+    </userSettings>
+<startup><supportedRuntime version="v2.0.50727"/></startup>
+</configuration>

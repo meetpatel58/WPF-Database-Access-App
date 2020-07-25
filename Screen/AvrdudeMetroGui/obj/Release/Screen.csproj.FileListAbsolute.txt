@@ -1,0 +1,9 @@
+F:\Ravi-data\Screen\AvrdudeMetroGui\bin\Release\Screen.exe.config
+F:\Ravi-data\Screen\AvrdudeMetroGui\obj\Release\Screen.csprojResolveAssemblyReference.cache
+F:\Ravi-data\Screen\AvrdudeMetroGui\obj\Release\Screen.Admin_Form.resources
+F:\Ravi-data\Screen\AvrdudeMetroGui\obj\Release\Screen.Login_Screen.resources
+F:\Ravi-data\Screen\AvrdudeMetroGui\obj\Release\Screen.Screen_Form.resources
+F:\Ravi-data\Screen\AvrdudeMetroGui\obj\Release\Screen.Properties.Resources.resources
+F:\Ravi-data\Screen\AvrdudeMetroGui\obj\Release\Screen.Settings_Form.resources
+F:\Ravi-data\Screen\AvrdudeMetroGui\obj\Release\Screen.Splashscreen.resources
+F:\Ravi-data\Screen\AvrdudeMetroGui\obj\Release\Screen.csproj.GenerateResource.Cache
